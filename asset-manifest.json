@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjscounter.git/static/css/main.0607e9ca.css",
+    "main.js": "/reactjscounter.git/static/js/main.91a88d7a.js",
+    "index.html": "/reactjscounter.git/index.html",
+    "main.0607e9ca.css.map": "/reactjscounter.git/static/css/main.0607e9ca.css.map",
+    "main.91a88d7a.js.map": "/reactjscounter.git/static/js/main.91a88d7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0607e9ca.css",
+    "static/js/main.91a88d7a.js"
+  ]
+}
